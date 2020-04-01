@@ -1,0 +1,5 @@
+"Resource: /Users/RyanGoluch/Documents/Coding Practice/guest_peanut/my_prog.ml": "\029\252\022h\218\221\187\173\030i`sb\254\217\158"
+"Rule: ocaml: cmx* & o* -> native (%=my_prog )": "\167\005t\140\191_\165\217\214\182\218\152\233\139\242\017"
+"Rule: ocaml dependencies ml (%=my_prog )": "2;9oEo\230\132`\023\171\145\184w\133t"
+"Rule: ocaml: ml -> cmo & cmi (%=my_prog )": "wh\145eHl\241\181\214\164\164\154\232P\149\193"
+"Rule: ocaml: ml & cmi -> cmx & o (%=my_prog )": "&[\146\006Qr\249\154\131a\149At>\224\204"
